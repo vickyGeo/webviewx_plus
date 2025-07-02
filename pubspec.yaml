@@ -20,7 +20,7 @@ dependencies:
   http: ^1.0.0
   path: ^1.8.0
   pointer_interceptor: ^0.10.0
-  uuid: ^3.0.7
+  uuid: ^4.1.0
   webview_flutter: ^4.4.2
   webview_flutter_android: ^3.13.1
   webview_flutter_platform_interface: ^2.9.0
